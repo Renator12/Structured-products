@@ -1,0 +1,11 @@
+STRUCTURED PRODUCTS 
+-> PRINCIPALLY PROTECTED NOTES
+  -> Equity-Linked Note with Participation rate : The final value of the index is used to calculate the return where Payoff =Principal Amount * Basket Return * Participation Rate and Basket Return = (Final Basket level-Initial Level)/Initial Level and
+                                                  the Final Basket Level is (Final Share Price / Initial Price) for all the stocks weighted
+
+  -> Autocall Equity Linked Note with varying fixed rates : 
+
+  ->Average Index Level Priced : The note is priced by the return calculated by the (Average value of the index- Initial Value)/Initial Value *Participation rate * S0. 
+
+->PRINCIPALLY AT RISK NOTES
+  ->
